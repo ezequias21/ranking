@@ -1,0 +1,5 @@
+mysql://b61712efcdb316:b599cf57@us-cdbr-east-04.cleardb.com/heroku_85bf8c39093f612?reconnect=true
+
+username = b61712efcdb316
+senha =b599cf57
+host = us-cdbr-east-04.cleardb.com
